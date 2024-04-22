@@ -1,13 +1,6 @@
 <h2 align="left">Olá 👋 Eu sou o Jhow</h2>
 
-###
-
-<br clear="both">
-
 <h3 align="left">Entre em contato</h3>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/jhookkj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
@@ -42,7 +35,7 @@
 
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
-
+<br>
 <img src="https://raw.githubusercontent.com/JhonatasMJ/JhonatasMJ/output/snake.svg" alt="Snake animation" />
 
 
