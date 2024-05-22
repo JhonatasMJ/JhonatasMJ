@@ -1,6 +1,6 @@
-<h2 align="left">Olá 👋 Eu sou o Jhow</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=700&size=26&pause=1000&color=3373D9&background=6BFF6300&random=false&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<h3 align="left">Entre em contato</h3>
+<h3 align="left"  style="color: #FF5733;" >Entre em contato</h3>
 <div align="left">
   <a href="https://www.instagram.com/jhookkj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/JhonatasMJ/JhonatasMJ/output/snake.svg" alt="Snake animation" />
+
 
 
 
