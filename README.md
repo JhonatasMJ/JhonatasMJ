@@ -39,7 +39,11 @@
 
 
 
-
+<h3 style=color:" align="left">Visitas</h3>
 <img align="left" src="https://profile-counter.glitch.me/JhonatasMJ/count.svg?"  />
+
+
+<img src="https://raw.githubusercontent.com/JhonatasMJ/JhonatasMJ/output/snake.svg" alt="Snake animation" />
+
 
 ###
