@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=700&size=26&pause=1000&color=FF5C00&background=6BFF6300&random=false&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<img src="imgs/github.svg"  width="400"/>
 
 <h3 align="left"  style="color: #FF5733;" >Entre em contato</h3>
 <div align="left">
