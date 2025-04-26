@@ -28,7 +28,7 @@
 <div align="left">
 
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,vue,typescript,sass,styledcomponents,tailwindcss,bootstrap,firebase,git,figma&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,react,vue,typescript,javascript,sass,styledcomponents,tailwindcss,bootstrap,firebase,git,figma&theme=dark&perline=15" alt="My Skills" /></a>
   
 </div>
 <br>
