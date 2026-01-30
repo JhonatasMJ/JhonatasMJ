@@ -64,9 +64,4 @@ Trabalho principalmente com **React, React Native, e Next.js**, unindo **design 
 
 ---
 
-## 👀 Visitas no perfil
-<img src="https://profile-counter.glitch.me/JhonatasMJ/count.svg" />
-
----
-
 <img src="https://raw.githubusercontent.com/JhonatasMJ/JhonatasMJ/output/snake.svg" />
