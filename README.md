@@ -1,55 +1,72 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=700&size=26&pause=1000&color=FF5C00&background=6BFF6300&random=false&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<img src="./imgs/Github.svg"  width="full" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=700&size=28&pause=1000&color=FF5C00&background=00000000&random=false&width=650&lines=Bem-vindo(a)+ao+meu+GitHub+👋;Front-end+•+Mobile+•+UI%2FUX" />
+</a>
 
-<h3 align="left"  style="color: #FF5733;" >Entre em contato</h3>
+<img src="./imgs/Github.svg" width="100%" />
+
+---
+
+## 👋 Sobre mim
+
+Sou **desenvolvedor Front-end e UI/UX Designer**, com foco em criar **interfaces claras, funcionais e bem pensadas**.  
+Trabalho principalmente com **React, React Native, e Next.js**, unindo **design e desenvolvimento** para transformar ideias em produtos reais, usáveis e escaláveis.
+
+---
+
+## 📬 Onde me encontrar
+
 <div align="left">
   <a href="https://www.instagram.com/jhookkj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:jhonatasjhmj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jhonatas-micael-jacometto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-###
+---
+
+## 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonatasMJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JhonatasMJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonatasMJ&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=JhonatasMJ&theme=dracula&border_radius=6" height="150" />
 </div>
 
+---
 
-<h3 align="left">Skills</h3>
+## 🛠️ Tecnologias & Ferramentas
 
-
-<div align="left">
-
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+### ⚙️ Front-end & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=ffff)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![ShadcnUi](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-  
-</div>
-<br>
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge)
 
+### 🎨 Estilo & UI
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components)
+![Sass](https://img.shields.io/badge/Sass-DB7093?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)
 
+### 🔥 Back-end & Infra
+![Firebase](https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge)
 
-<h3 style=color:" align="left">Visitas</h3>
-<img align="left" src="https://profile-counter.glitch.me/JhonatasMJ/count.svg?"  />
+---
 
+## 👀 Visitas no perfil
+<img src="https://profile-counter.glitch.me/JhonatasMJ/count.svg" />
 
-<img src="https://raw.githubusercontent.com/JhonatasMJ/JhonatasMJ/output/snake.svg" alt="Snake animation" />
+---
 
-
-###
+<img src="https://raw.githubusercontent.com/JhonatasMJ/JhonatasMJ/output/snake.svg" />
