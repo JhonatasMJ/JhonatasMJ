@@ -72,7 +72,7 @@ Além do desenvolvimento, também atuo na criação de interfaces no **Figma**, 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/JhonatasMJ/Crbr" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Screenshot+Projeto+1" width="100%" alt="Projeto 1"/>
+        <img src="./imgs/crbr.png" width="100%" alt="Projeto 1"/>
       </a>
       <h3>CRBR Investimentos (LP)</h3>
       <p>Desenvolvimento de uma página institucional, com o objetivo de apresentar a empresa e seus tipos de trabalhos. Apresentando tipos de investimentos, serviços, aplicativo e formas de contato.</p>
@@ -81,7 +81,7 @@ Além do desenvolvimento, também atuo na criação de interfaces no **Figma**, 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/JhonatasMJ/Crbr_App" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Screenshot+Projeto+2" width="100%" alt="Projeto 2"/>
+        <img src="./imgs/crbr.png" width="100%" alt="Projeto 2"/>
       </a>
       <h3>CRBR Investimentos (App)</h3>
       <p>Aplicativo de gerenciamento de investimentos para o cliente CRBR Investimentos, onde o usuário pode criar e acompanhar seus investimentos, após ser aprovado pelo administrador em nosso dashboard gerencial.</p>
@@ -92,7 +92,7 @@ Além do desenvolvimento, também atuo na criação de interfaces no **Figma**, 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/JhonatasMJ/ProSaude" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Screenshot+Projeto+3" width="100%" alt="Projeto 3"/>
+        <img src="./imgs/proSaude.png" width="100%" alt="Projeto 3"/>
       </a>
       <h3>PróSaúde (LP)</h3>
       <p>Landing Page institucional para a clínica Pró Saúde, apresentando seus serviços, equipe de profissionais, cursos oferecidos e demais informações relevantes sobre a empresa.</p>
@@ -100,13 +100,13 @@ Além do desenvolvimento, também atuo na criação de interfaces no **Figma**, 
       <p>🔗 <a href="https://github.com/JhonatasMJ/ProSaude">Repositório</a> &nbsp;·&nbsp; 🌐 <a href="https://www.prosaudema.com.br/">Site</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JhonatasMJ/NOME-DO-REPO-4" target="_blank">
-        <img src="https://via.placeholder.com/500x280.png?text=Screenshot+Projeto+4" width="100%" alt="Projeto 4"/>
+      <a href="https://github.com/JhonatasMJ/Dashboard-ProSaude" target="_blank">
+        <img src="./imgs/proSaude.png" width="100%" alt="Projeto 4"/>
       </a>
       <h3>PróSaúde (Dashboard)</h3>
       <p>Dashboard completo para gestão de medicina ocupacional, com controle de exames, empresas e funcionários. Permite vincular colaboradores a empresas, gerar relatórios gerenciais e acompanhar o financeiro de cada exame com base em custo, valor e lucro, trazendo mais organização e automação.</p>
       <p><b>Tecnologias:</b> React | TypeScript | Tailwind | Shadcn/UI | Recharts | JsPDF</p>
-      <p>🔗 <a href="https://github.com/JhonatasMJ/NOME-DO-REPO-4">Repositório</a> &nbsp;·&nbsp; 🌐 <a href="https://dashboard.prosaudema.com.br/">Site</a></p>
+      <p>🔗 <a href="https://github.com/JhonatasMJ/Dashboard-ProSaude">Repositório</a> &nbsp;·&nbsp; 🌐 <a href="https://dashboard.prosaudema.com.br/">Site</a></p>
     </td>
   </tr>
 </table>
